@@ -41,11 +41,23 @@
                     <input class="form-control" type="text" placeholder="Ingrese su pais" id="txtPais" name="txtPais" />
                 </div>
                 <div class="form-row">
-                <div class="col-md-3">
-                    <label>Direccion:</label>
-                    <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtDireccion" name="txtDireccion" />
-                </div>
+                    <div class="col-md-3">
+                        <label>Direccion:</label>
+                        <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtDireccion" name="txtDireccion" />
                     </div>
+                    <div class="col-md-3">
+                        <label>Departamento</label>
+                        <input class="form-control" type="text" placeholder="Ingrese su ciudad" id="txtDepartamento" name="txtDepartamento" />
+                    </div>
+                    <div class="col-md-3">
+                        <label>Ciudad:</label>
+                        <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtCiudad" name="txtCiudad" />
+                    </div>
+                    <div class="col-md-3">
+                        <label>Direccion:</label>
+                        <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtDireccion" name="txtDireccion" />
+                    </div>
+                </div>
             </div>
         </div>
 
