@@ -54,12 +54,33 @@
                         <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtCiudad" name="txtCiudad" />
                     </div>
                     <div class="col-md-3">
-                        <label>Direccion:</label>
+                        <label>Telefono:</label>
+                        <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtDireccion" name="txtDireccion" />
+                    </div>                    
+                </div>
+                <div class="form-row">
+                    <div class="col-md-12">
+                        <label>Email</label>
+                        <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtDireccion" name="txtDireccion" />
+                    </div>                    
+                </div>
+                <div class="form-row">
+                    <div class="col-md-3">
+                        <label>Cedula:</label>
                         <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtDireccion" name="txtDireccion" />
                     </div>
+                    <div class="col-md-3">
+                        <label>Notas de pedido:</label>
+                        <input class="form-control" type="text" placeholder="Ingrese su ciudad" id="txtDepartamento" name="txtDepartamento" />
+                    </div>
+                    <div class="col-md-3">
+                        <label>Vendedor</label>
+                        <input class="form-control" type="text" placeholder="Ingrese su direccion" id="txtCiudad" name="txtCiudad" />
+                    </div>                   
                 </div>
             </div>
         </div>
+    </div>
 
-    </body>
+</body>
 </html>
